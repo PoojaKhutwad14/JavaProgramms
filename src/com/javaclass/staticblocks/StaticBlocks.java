@@ -9,6 +9,9 @@ public class StaticBlocks {
 	StaticBlocks(){
 		System.out.println("In Default Constructor");
 	}
+//	static{
+	//	System.out.println("in static block2");
+	//}
 	StaticBlocks(int i,int j){
 		System.out.println("In Parameterized Constructor");
 		
